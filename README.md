@@ -33,8 +33,8 @@ See [Slant](http://www.slant.co/topics/67/~programming-fonts) if you don't know 
 
   - Launch *Secure Shell* and click on **Options**
     (or go to `chrome-extension://pnhechapfaindjhompbnflcldabbghjo/html/nassh_preferences_editor.html`):
-      - Set **font-family**: `"Source Code Pro", monospace`
-      - Set **Custom CSS (URI)**: `https://cdn.jsdelivr.net/gh/wernight/powerline-web-fonts@ba4426cb0c0b05eb6cb342c7719776a41e1f2114/PowerlineFonts.css`
+      - Set **font-family**: `"HackCompleteMono", monospace`
+      - Set **Custom CSS (URI)**: `https://cdn.jsdelivr.net/gh/dstarikov/powerline-web-fonts@42b8113f708fda956cf028e9d0ac9feb17320627/PowerlineFonts.css`
 
 ### Usage example for [Crosh Window](https://chrome.google.com/webstore/detail/crosh-window/nhbmpbdladcchdhkemlojfjdknjadhmh)
 
