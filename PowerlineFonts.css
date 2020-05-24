@@ -26,6 +26,12 @@
 }
 
 @font-face {
+    font-family: "HackCompleteMono";
+    src: local("HackCompleteMono"),
+         url(fonts/HackCompleteMono.woff2) format("woff2");
+}
+
+@font-face {
     font-family: "Inconsolata";
     src: local("Inconsolata for Powerline"),
          url(fonts/Inconsolata.woff2) format("woff2");
